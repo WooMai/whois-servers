@@ -1,5 +1,6 @@
 {
     "name": "woomai/whois-servers",
     "description": "WHOIS server list",
-    "type": "library"
+    "type": "library",
+    "license": "WTFPL"
 }
