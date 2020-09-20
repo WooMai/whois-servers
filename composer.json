@@ -1,0 +1,5 @@
+{
+    "name": "woomai/whois-servers",
+    "description": "WHOIS server list",
+    "type": "library"
+}
