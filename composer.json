@@ -2,5 +2,6 @@
     "name": "woomai/whois-servers",
     "description": "WHOIS server list",
     "type": "library",
-    "license": "WTFPL"
+    "license": "WTFPL",
+    "version": "0.0.1"
 }
