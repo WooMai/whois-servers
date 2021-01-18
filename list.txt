@@ -235,7 +235,7 @@ store whois.nic.store
 stream whois.nic.stream
 su whois.ripn.net
 sucks whois.nic.sucks
-tc whois.adamsnames.tc
+tc whois.nic.tc
 team whois.nic.team
 tech whois.nic.tech
 tel whois.nic.tel
@@ -264,7 +264,7 @@ uy whois.nic.org.uy
 uz whois.cctld.uz
 vc whois2.afilias-grs.net
 ve whois.nic.ve
-vg whois.adamsnames.tc
+vg whois.nic.vg
 wang whois.nic.wang
 website whois.nic.website
 weibo whois.nic.weibo
