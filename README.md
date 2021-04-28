@@ -2,6 +2,10 @@
 
 [JSON](list.json) / [TXT](list.txt)
 
+## Contributing
+
+If this list is outdated or missing servers, please feel free to open an issue or create pull request!
+
 ## License
 
 ```
