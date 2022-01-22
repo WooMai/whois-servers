@@ -224,6 +224,7 @@ si whois.arnes.si
 sina whois.nic.sina
 site whois.nic.site
 sk whois.sk-nic.sk
+sl whois.nic.sl
 sm whois.nic.sm
 smart whois.nic.smart
 sn whois.nic.sn
