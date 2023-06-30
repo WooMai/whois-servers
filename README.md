@@ -22,6 +22,18 @@ npm i whois-servers-list
 yarn add whois-servers-list
 ```
 
+(Optional) To ensure that you are using the latest list, you can modify your package.json:
+
+```
+{
+  ...
+  "dependencies": {
+    ...
+    "whois-servers-list": "latest"
+  },
+  ...
+```
+
 Then you can use the list like this:
 
 ```javascript
