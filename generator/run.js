@@ -50,6 +50,9 @@ async function main() {
 
     await Promise.all(p);
 
+    // sort list by key
+    list = Object.fromEntries(Object.entries(list).sort((a, b) => a[0].localeCompare(b[0])));
+
     // write to files
     fs.writeFileSync(path.join(__dirname, '../last_updated'), new Date().toISOString());
     fs.writeFileSync(path.join(__dirname, '../list.json'), JSON.stringify(list, null, 4));
