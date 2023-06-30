@@ -15,7 +15,8 @@ async function main() {
     const p = [];
     for (const [index, tld] of TLDs.entries()) {
         try {
-            await sleep(350);
+            const delay = process.env.QUERY_DELAY ? parseInt(process.env.QUERY_DELAY) : 330;
+            await sleep(delay);
             let i = 0;
 
             async function tryLookup() {
@@ -37,7 +38,7 @@ async function main() {
                     })
                 } catch (e) {
                     console.error(`[${index + 1}/${TLDs.length}]`, tld, 'error:', e.message, 'retrying...', ++i);
-                    await sleep(800);
+                    await sleep(500);
                     await tryLookup();
                 }
             }
