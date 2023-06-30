@@ -1,0 +1,37 @@
+name: Weekly Update
+
+on:
+  schedule:
+    - cron:  '0 0 */7 * *'
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org/
+      - name: Install Dependencies
+        working-directory: generator
+        run: npm ci
+      - name: Build Data
+        working-directory: generator
+        run: npm run.js
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update Data
+  publish-npm:
+    needs: build-data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org/
+      - run: npm ci
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
