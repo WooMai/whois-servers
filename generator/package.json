@@ -1,0 +1,16 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "dayjs": "^1.11.8",
+    "make-fetch-happen": "^11.1.1",
+    "punycode": "^2.3.0"
+  }
+}
