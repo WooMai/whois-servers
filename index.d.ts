@@ -1,5 +1,4 @@
-export type WhoisServersList = {
-    [key: string]: string
+declare module 'whois-servers-list' {
+    const list: { [key: string]: string };
+    export = list;
 }
-
-export default WhoisServersList;
