@@ -65,7 +65,7 @@ async function main() {
 
     // update version in package.json
     let packageJson = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')).toString());
-    packageJson.version = dayjs().format('YYYYMMDD');
+    packageJson.version = dayjs().format('YYYY.MM.DD');
     fs.writeFileSync(path.join(__dirname, '../package.json'), JSON.stringify(packageJson, null, 4));
 
     // update README.md
