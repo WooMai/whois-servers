@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-data:
+  update-whois-servers:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -23,15 +23,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Data
-  publish-npm:
-    needs: build-data
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 20
-          registry-url: https://registry.npmjs.org/
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
