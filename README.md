@@ -1,6 +1,55 @@
 # WHOIS Server List
 
+<!-- UPDATE_DATE_START -->
+Last updated: 2023-06-30
+<!-- UPDATE_DATE_END -->
+
+## Usage
+
+### Use the list directly
+
 [JSON](list.json) / [TXT](list.txt)
+
+### JavaScript / TypeScript
+
+Install the package with NPM or Yarn:
+
+```sh
+npm i whois-server-list
+# or
+yarn add whois-server-list
+```
+
+Then you can use the list like this:
+
+```javascript
+const servers = require('whois-server-list');
+
+const server = servers['com'];  // whois.verisign-grs.com
+```
+
+or TypeScript:
+
+```typescript
+import servers from 'whois-server-list';
+
+const server: string | null = servers['com'];  // whois.verisign-grs.com
+```
+
+### PHP
+
+Add the package with Composer:
+
+```sh
+composer require woomai/whois-servers:dev-master
+```
+
+Then you can use the list like this:
+
+```php
+$servers = json_decode(file_get_contents('vendor/woomai/whois-servers/list.json'), true);
+$server = $servers['com'];  // whois.verisign-grs.com
+```
 
 ## Contributing
 
@@ -8,18 +57,4 @@ If this list is outdated or missing servers, please feel free to open an issue o
 
 ## License
 
-```
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 2, December 2004
-
-Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
-
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
- 0. You just DO WHAT THE FUCK YOU WANT TO.
-```
+[The Unlicense](./LICENSE)

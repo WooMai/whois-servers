@@ -1,18 +1,14 @@
 {
-  "name": "whois-servers-list",
-  "version": "0.0.1",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WooMai/whois-servers.git"
-  },
-  "author": "",
-  "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/WooMai/whois-servers/issues"
-  },
-  "homepage": "https://github.com/WooMai/whois-servers#readme"
+    "name": "whois-servers-list",
+    "version": "20230630",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/WooMai/whois-servers.git"
+    },
+    "license": "Unlicense",
+    "bugs": {
+        "url": "https://github.com/WooMai/whois-servers/issues"
+    },
+    "homepage": "https://github.com/WooMai/whois-servers#readme"
 }
