@@ -17,15 +17,15 @@ Last updated: 2023-06-30
 Install the package with NPM or Yarn:
 
 ```sh
-npm i whois-server-list
+npm i whois-servers-list
 # or
-yarn add whois-server-list
+yarn add whois-servers-list
 ```
 
 Then you can use the list like this:
 
 ```javascript
-const servers = require('whois-server-list');
+const servers = require('whois-servers-list');
 
 const server = servers['com'];  // whois.verisign-grs.com
 ```
@@ -33,7 +33,7 @@ const server = servers['com'];  // whois.verisign-grs.com
 or TypeScript:
 
 ```typescript
-import servers from 'whois-server-list';
+import servers from 'whois-servers-list';
 
 const server: string | null = servers['com'];  // whois.verisign-grs.com
 ```
