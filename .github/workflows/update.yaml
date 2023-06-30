@@ -1,8 +1,9 @@
-name: Weekly Update
+name: Update Data
 
 on:
   schedule:
     - cron:  '0 0 */7 * *'
+  workflow_dispatch:
 
 jobs:
   build-data:
