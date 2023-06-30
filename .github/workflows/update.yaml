@@ -19,7 +19,7 @@ jobs:
         run: npm ci
       - name: Build Data
         working-directory: generator
-        run: npm run.js
+        run: node run.js
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Data
