@@ -51,7 +51,6 @@ dell
 dhl
 discover
 dj
-dm
 dupont
 eg
 er
@@ -77,7 +76,6 @@ gt
 gu
 guardian
 gw
-haus
 hbo
 health
 homegoods
@@ -88,7 +86,6 @@ hotmail
 hsbc
 hyatt
 ieee
-insure
 intuit
 ipiranga
 itau
@@ -173,7 +170,6 @@ tjmaxx
 tjx
 tkmaxx
 tt
-tw
 va
 vi
 vivo
@@ -199,7 +195,6 @@ xn--imr513n
 xn--jvr189m
 xn--l1acc
 xn--mgba3a3ejt
-xn--mgbah1a3hjkrd
 xn--mgbai9azgqp6j
 xn--mgbayh7gpa
 xn--mgbc0a9azcg
@@ -210,7 +205,6 @@ xn--otu796d
 xn--qxam
 xn--rhqv96g
 xn--rovu88b
-xn--vhquv
 yahoo
 yandex
 za
@@ -224,7 +218,6 @@ zw
 المغرب
 پاکستان
 سودان
-موريتانيا
 বাংলা
 クラウド
 ストア
@@ -232,7 +225,6 @@ zw
 ファッション
 ポイント
 世界
-企业
 健康
 商标
 家電
