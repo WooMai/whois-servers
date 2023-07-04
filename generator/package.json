@@ -10,6 +10,7 @@
   "license": "Unlicense",
   "dependencies": {
     "dayjs": "^1.11.8",
+    "json5": "^2.2.3",
     "make-fetch-happen": "^11.1.1",
     "punycode": "^2.3.0"
   }

@@ -1,0 +1,26 @@
+// this list is a supplement to the IANA root zone database of the TLDs that do not have WHOIS servers.
+{
+  "sl": "whois.nic.sl",
+  "tube": "whois.nic.tube",
+  "lc": "whois.afilias-grs.info",
+  /**
+   * from https://github.com/rfc1036/whois/blob/next/tld_serv_list
+   */
+  "bf": "whois.registre.bf",
+  "bh": "whois.nic.bh",
+  "bm": "whois.afilias-srs.net",
+  "bz": "whois.afilias-grs.info",
+  "cd": "whois.nic.cd",
+  "cm": "whois.netcom.cm",
+  "gh": "whois.nic.gh",
+  "gi": "whois2.afilias-grs.net",
+  "kw": "whois.nic.kw",
+  "lk": "whois.nic.lk",
+  "mt": "whois.nic.org.mt",
+  "ps": "whois.pnina.ps",
+  "sd": "whois.sdnic.sd",
+  "xn--fzc2c9e2c": "whois.nic.lk",
+  "xn--pgbs0dh": "whois.ati.tn",
+  "xn--wgbh1c": "whois.dotmasr.eg",
+  "xn--xkc2al3hye2a": "whois.nic.lk",
+}

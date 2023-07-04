@@ -1,11 +1,12 @@
+require('json5/lib/register')
 const fetch = require('make-fetch-happen');
 const net = require('net');
 const dns = require('dns/promises');
 const fs = require("fs");
 const path = require("path");
 const punycode = require('punycode/');
-const extra = require('./extra.json');
-const overrides = require('./overrides.json');
+const extra = require('./extra.json5');
+const overrides = require('./overrides.json5');
 const dayjs = require('dayjs');
 
 async function main() {
@@ -58,9 +59,12 @@ async function main() {
     fs.writeFileSync(path.join(__dirname, '../last_updated'), new Date().toISOString());
     fs.writeFileSync(path.join(__dirname, '../list.json'), JSON.stringify(list, null, 4));
     const fd = fs.openSync(path.join(__dirname, '../list.txt'), 'w+');
+    const fd_notfound = fs.openSync(path.join(__dirname, '../notfound.txt'), 'w+');
     for (const [tld, whoisServer] of Object.entries(list)) {
         if (whoisServer) {
             fs.writeSync(fd, `${tld} ${whoisServer}\n`);
+        } else {
+            fs.writeSync(fd_notfound, `${tld}\n`);
         }
     }
 
