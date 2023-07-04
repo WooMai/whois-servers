@@ -8,6 +8,7 @@ const punycode = require('punycode/');
 const extra = require('./extra.json5');
 const overrides = require('./overrides.json5');
 const dayjs = require('dayjs');
+const prevList = require('../list.json');
 
 async function main() {
     const TLDs = await getTLDs();
@@ -25,10 +26,18 @@ async function main() {
                 try {
                     await getWhoisServerFromIANA(tld).then(ianaResult => {
                         let whoisServer = ianaResult;
+
+                        // apply extras
                         if (!whoisServer) {
                             whoisServer = extra[tld] || null;
                         }
 
+                        // apply previous list (prevents deleting)
+                        if (!whoisServer) {
+                            whoisServer = prevList[tld] || null;
+                        }
+
+                        // apply overrides
                         if (overrides[tld]) {
                             whoisServer = overrides[tld];
                         }
