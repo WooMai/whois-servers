@@ -14,5 +14,8 @@
     "files": [
         "index.*",
         "list.*"
-    ]
+    ],
+    "scripts": {
+        "just-publish": "npm publish || true"
+    }
 }

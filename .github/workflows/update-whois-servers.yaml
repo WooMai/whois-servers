@@ -26,6 +26,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Data
-      - run: npm publish
+      - run: npm run just-publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
