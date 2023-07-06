@@ -9,6 +9,7 @@ const extra = require('./extra.json5');
 const overrides = require('./overrides.json5');
 const dayjs = require('dayjs');
 const prevList = require('../list.json');
+const assert = require("assert");
 
 async function main() {
     const TLDs = await getTLDs();
@@ -64,38 +65,44 @@ async function main() {
     // sort list by key
     list = Object.fromEntries(Object.entries(list).sort((a, b) => a[0].localeCompare(b[0])));
 
-    // write to files
-    fs.writeFileSync(path.join(__dirname, '../last_updated'), new Date().toISOString());
-    fs.writeFileSync(path.join(__dirname, '../list.json'), JSON.stringify(list, null, 4));
-    const fd = fs.openSync(path.join(__dirname, '../list.txt'), 'w+');
-    const fd_notfound = fs.openSync(path.join(__dirname, '../notfound.txt'), 'w+');
-    for (const [tld, whoisServer] of Object.entries(list)) {
-        if (whoisServer) {
-            fs.writeSync(fd, `${tld} ${whoisServer}\n`);
-        } else {
-            fs.writeSync(fd_notfound, `${tld}\n`);
+    // write to files if changed
+
+    try {
+        assert.deepEqual(prevList, list)
+        console.log('No changes detected, skipping write')
+    } catch {
+        console.log('Server list changed, writing files...')
+        fs.writeFileSync(path.join(__dirname, '../last_updated'), new Date().toISOString());
+        fs.writeFileSync(path.join(__dirname, '../list.json'), JSON.stringify(list, null, 4));
+        const fd = fs.openSync(path.join(__dirname, '../list.txt'), 'w+');
+        const fd_notfound = fs.openSync(path.join(__dirname, '../notfound.txt'), 'w+');
+        for (const [tld, whoisServer] of Object.entries(list)) {
+            if (whoisServer) {
+                fs.writeSync(fd, `${tld} ${whoisServer}\n`);
+            } else {
+                fs.writeSync(fd_notfound, `${tld}\n`);
+            }
         }
+
+        // update version in package.json
+        let packageJson = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')).toString());
+        packageJson.version = dayjs().format('YYYY.MM.DD');
+        fs.writeFileSync(path.join(__dirname, '../package.json'), JSON.stringify(packageJson, null, 4));
+
+        // update README.md
+        const date = dayjs().format('YYYY-MM-DD');
+        const readme = fs.readFileSync(path.join(__dirname, '../README.md')).toString();
+
+        /**
+         * Update the README.md file with the latest date
+         * Example:
+         * <!-- UPDATE_DATE_START -->
+         * Last updated: 2021-10-20
+         * <!-- UPDATE_DATE_END -->
+         */
+        const newReadme = readme.replace(/<!-- UPDATE_DATE_START -->[\s\S]*<!-- UPDATE_DATE_END -->/g, `<!-- UPDATE_DATE_START -->\nLast updated: ${date}\n<!-- UPDATE_DATE_END -->`);
+        fs.writeFileSync(path.join(__dirname, '../README.md'), newReadme);
     }
-
-    // update version in package.json
-    let packageJson = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')).toString());
-    packageJson.version = dayjs().format('YYYY.MM.DD');
-    fs.writeFileSync(path.join(__dirname, '../package.json'), JSON.stringify(packageJson, null, 4));
-
-    // update README.md
-    const date = dayjs().format('YYYY-MM-DD');
-    const readme = fs.readFileSync(path.join(__dirname, '../README.md')).toString();
-
-    /**
-     * Update the README.md file with the latest date
-     * Example:
-     * <!-- UPDATE_DATE_START -->
-     * Last updated: 2021-10-20
-     * <!-- UPDATE_DATE_END -->
-     */
-
-    const newReadme = readme.replace(/<!-- UPDATE_DATE_START -->[\s\S]*<!-- UPDATE_DATE_END -->/g, `<!-- UPDATE_DATE_START -->\nLast updated: ${date}\n<!-- UPDATE_DATE_END -->`);
-    fs.writeFileSync(path.join(__dirname, '../README.md'), newReadme);
 }
 
 function sleep(ms) {
