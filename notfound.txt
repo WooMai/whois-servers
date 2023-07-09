@@ -80,7 +80,6 @@ hbo
 health
 homegoods
 homesense
-hoteles
 hotels
 hotmail
 hsbc
@@ -139,7 +138,6 @@ office
 oldnavy
 open
 pa
-passagens
 pfizer
 pg
 ph
@@ -174,7 +172,6 @@ va
 vi
 vivo
 vn
-vuelos
 weather
 weatherchannel
 williamhill
