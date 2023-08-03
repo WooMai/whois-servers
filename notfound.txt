@@ -120,7 +120,6 @@ mlb
 moto
 mp
 msd
-mutual
 mv
 nba
 ne

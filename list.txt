@@ -306,7 +306,7 @@ earth whois.nic.earth
 eat whois.nic.google
 ec whois.nic.ec
 eco whois.nic.eco
-edeka whois.afilias-srs.net
+edeka whois.nic.edeka
 edu whois.educause.edu
 education whois.nic.education
 ee whois.tld.ee
