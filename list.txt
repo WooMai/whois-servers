@@ -69,7 +69,7 @@ auspost whois.nic.auspost
 author whois.nic.author
 auto whois.nic.auto
 autos whois.nic.autos
-avianca whois.afilias-srs.net
+avianca whois.nic.avianca
 aw whois.nic.aw
 aws whois.nic.aws
 ax whois.ax
@@ -176,7 +176,7 @@ cat whois.nic.cat
 catering whois.nic.catering
 catholic whois.nic.catholic
 cba whois.nic.cba
-cbs whois.afilias-srs.net
+cbs whois.nic.cbs
 cc ccwhois.verisign-grs.com
 cd whois.nic.cd
 center whois.nic.center
@@ -515,8 +515,8 @@ ir whois.nic.ir
 irish whois.nic.irish
 is whois.isnic.is
 ismaili whois.afilias-srs.net
-ist whois.afilias-srs.net
-istanbul whois.afilias-srs.net
+ist whois.nic.ist
+istanbul whois.nic.istanbul
 it whois.nic.it
 itv whois.afilias-srs.net
 jaguar whois.nic.jaguar
@@ -545,7 +545,7 @@ kfh whois.nic.kfh
 kg whois.kg
 ki whois.nic.ki
 kia whois.nic.kia
-kids whois.afilias-srs.net
+kids whois.nic.kids
 kim whois.nic.kim
 kindle whois.nic.kindle
 kitchen whois.nic.kitchen
@@ -612,7 +612,7 @@ lplfinancial whois.nic.lplfinancial
 ls whois.nic.ls
 lt whois.domreg.lt
 ltd whois.nic.ltd
-ltda whois.afilias-srs.net
+ltda whois.nic.ltda
 lu whois.dns.lu
 lundbeck whois.nic.lundbeck
 luxe whois.nic.luxe
@@ -729,7 +729,7 @@ om whois.registry.om
 omega whois.nic.omega
 one whois.nic.one
 ong whois.nic.ong
-onl whois.afilias-srs.net
+onl whois.nic.onl
 online whois.nic.online
 ooo whois.nic.ooo
 oracle whois.nic.oracle
@@ -830,7 +830,7 @@ restaurant whois.nic.restaurant
 review whois.nic.review
 reviews whois.nic.reviews
 rexroth whois.nic.rexroth
-rich whois.afilias-srs.net
+rich whois.nic.rich
 richardli whois.nic.richardli
 ricoh whois.nic.ricoh
 ril whois.nic.ril
@@ -906,7 +906,7 @@ shop whois.nic.shop
 shopping whois.nic.shopping
 shouji whois.teleinfo.cn
 show whois.nic.show
-showtime whois.afilias-srs.net
+showtime whois.nic.showtime
 si whois.register.si
 silk whois.nic.silk
 sina whois.nic.sina
@@ -932,14 +932,14 @@ solar whois.nic.solar
 solutions whois.nic.solutions
 sony whois.nic.sony
 soy whois.nic.google
-spa whois.afilias-srs.net
+spa whois.nic.spa
 space whois.nic.space
 sport whois.nic.sport
 spot whois.nic.spot
-srl whois.afilias-srs.net
+srl whois.nic.srl
 ss whois.nic.ss
 st whois.nic.st
-stada whois.afilias-srs.net
+stada whois.nic.stada
 star whois.nic.star
 statebank whois.nic.statebank
 stc whois.nic.stc
