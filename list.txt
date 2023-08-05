@@ -252,7 +252,7 @@ cx whois.nic.cx
 cymru whois.nic.cymru
 cyou whois.nic.cyou
 cz whois.nic.cz
-dabur whois.afilias-srs.net
+dabur whois.nic.dabur
 dad whois.nic.google
 dance whois.nic.dance
 data whois.nic.data
@@ -630,7 +630,7 @@ map whois.nic.google
 market whois.nic.market
 marketing whois.nic.marketing
 markets whois.nic.markets
-marriott whois.afilias-srs.net
+marriott whois.nic.marriott
 mba whois.nic.mba
 mckinsey whois.nic.mckinsey
 md whois.nic.md
@@ -646,7 +646,7 @@ menu whois.nic.menu
 mg whois.nic.mg
 miami whois.nic.miami
 mini whois.nic.mini
-mit whois.afilias-srs.net
+mit whois.nic.mit
 mitsubishi whois.nic.gmo
 mk whois.marnet.mk
 ml whois.nic.ml
@@ -1252,7 +1252,7 @@ youtube whois.nic.google
 yt whois.nic.yt
 yun whois.teleinfo.cn
 zappos whois.nic.zappos
-zara whois.afilias-srs.net
+zara whois.nic.zara
 zip whois.nic.google
 zm whois.zicta.zm
 zone whois.nic.zone
