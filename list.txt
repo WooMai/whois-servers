@@ -715,7 +715,7 @@ norton whois.nic.norton
 now whois.nic.now
 nowruz whois.nic.nowruz
 nowtv whois.nic.nowtv
-nra whois.afilias-srs.net
+nra whois.nic.nra
 nrw whois.nic.nrw
 nu whois.iis.nu
 nz whois.irs.net.nz
