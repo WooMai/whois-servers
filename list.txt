@@ -45,7 +45,7 @@ anz whois.nic.anz
 aol whois.nic.aol
 apartments whois.nic.apartments
 app whois.nic.google
-apple whois.afilias-srs.net
+apple whois.nic.apple
 aquarelle whois.nic.aquarelle
 ar whois.nic.ar
 arab whois.nic.arab
@@ -92,7 +92,7 @@ bbva whois.nic.bbva
 bcg whois.nic.bcg
 bcn whois.nic.bcn
 be whois.dns.be
-beats whois.afilias-srs.net
+beats whois.nic.beats
 beauty whois.nic.beauty
 beer whois.nic.beer
 bentley whois.nic.bentley
@@ -123,7 +123,7 @@ bn whois.bnnic.bn
 bnpparibas whois.afilias-srs.net
 bo whois.nic.bo
 boats whois.nic.boats
-boehringer whois.afilias-srs.net
+boehringer whois.nic.boehringer
 bofa whois.nic.bofa
 bom whois.gtlds.nic.br
 bond whois.nic.bond
@@ -196,7 +196,7 @@ christmas whois.nic.christmas
 chrome whois.nic.google
 church whois.nic.church
 ci whois.nic.ci
-cipriani whois.afilias-srs.net
+cipriani whois.nic.cipriani
 circle whois.nic.circle
 city whois.nic.city
 cityeats whois.nic.cityeats
@@ -245,6 +245,7 @@ creditcard whois.nic.creditcard
 creditunion whois.nic.creditunion
 cricket whois.nic.cricket
 crown whois.nic.crown
+crs whois.nic.crs
 cruise whois.nic.cruise
 cruises whois.nic.cruises
 cuisinella whois.nic.cuisinella
@@ -333,7 +334,7 @@ expert whois.nic.expert
 exposed whois.nic.exposed
 express whois.nic.express
 extraspace whois.afilias-srs.net
-fage whois.afilias-srs.net
+fage whois.nic.fage
 fail whois.nic.fail
 fairwinds whois.nic.fairwinds
 faith whois.nic.faith
@@ -348,7 +349,7 @@ feedback whois.nic.feedback
 ferrari whois.nic.ferrari
 fi whois.fi
 fidelity whois.nic.fidelity
-fido whois.afilias-srs.net
+fido whois.nic.fido
 film whois.nic.film
 final whois.gtlds.nic.br
 finance whois.nic.finance
@@ -518,16 +519,16 @@ ismaili whois.afilias-srs.net
 ist whois.nic.ist
 istanbul whois.nic.istanbul
 it whois.nic.it
-itv whois.afilias-srs.net
+itv whois.nic.itv
 jaguar whois.nic.jaguar
 java whois.nic.java
 jcb whois.nic.gmo
 je whois.je
-jeep whois.afilias-srs.net
+jeep whois.nic.jeep
 jetzt whois.nic.jetzt
 jewelry whois.nic.jewelry
 jio whois.nic.jio
-jll whois.afilias-srs.net
+jll whois.nic.jll
 jobs whois.nic.jobs
 joburg whois.nic.joburg
 jot whois.nic.jot
@@ -568,7 +569,7 @@ lamer whois.nic.lamer
 lancaster whois.nic.lancaster
 land whois.nic.land
 landrover whois.nic.landrover
-lasalle whois.afilias-srs.net
+lasalle whois.nic.lasalle
 lat whois.nic.lat
 latino whois.nic.latino
 latrobe whois.nic.latrobe
@@ -789,7 +790,7 @@ pro whois.nic.pro
 prod whois.nic.google
 productions whois.nic.productions
 prof whois.nic.google
-progressive whois.afilias-srs.net
+progressive whois.nic.progressive
 promo whois.nic.promo
 properties whois.nic.properties
 property whois.nic.property
@@ -798,7 +799,7 @@ ps whois.pnina.ps
 pt whois.dns.pt
 pub whois.nic.pub
 pw whois.nic.pw
-pwc whois.afilias-srs.net
+pwc whois.nic.pwc
 qa whois.registry.qa
 qpon whois.nic.qpon
 quebec whois.nic.quebec
@@ -813,7 +814,7 @@ realty whois.nic.realty
 recipes whois.nic.recipes
 red whois.nic.red
 redstone whois.nic.redstone
-redumbrella whois.afilias-srs.net
+redumbrella whois.nic.redumbrella
 rehab whois.nic.rehab
 reise whois.nic.reise
 reisen whois.nic.reisen
@@ -839,7 +840,7 @@ rip whois.nic.rip
 ro whois.rotld.ro
 rocks whois.nic.rocks
 rodeo whois.nic.rodeo
-rogers whois.afilias-srs.net
+rogers whois.nic.rogers
 room whois.nic.room
 rs whois.rnids.rs
 rsvp whois.nic.google
@@ -982,7 +983,7 @@ team whois.nic.team
 tech whois.nic.tech
 technology whois.nic.technology
 tel whois.nic.tel
-temasek whois.afilias-srs.net
+temasek whois.nic.temasek
 tennis whois.nic.tennis
 teva whois.nic.teva
 tf whois.nic.tf
@@ -1019,10 +1020,10 @@ trade whois.nic.trade
 trading whois.nic.trading
 training whois.nic.training
 travel whois.nic.travel
-travelers whois.afilias-srs.net
-travelersinsurance whois.afilias-srs.net
+travelers whois.nic.travelers
+travelersinsurance whois.nic.travelersinsurance
 trust whois.nic.trust
-trv whois.afilias-srs.net
+trv whois.nic.trv
 tube whois.nic.tube
 tui whois.nic.tui
 tunes whois.nic.tunes
@@ -1059,8 +1060,8 @@ vet whois.nic.vet
 vg whois.nic.vg
 viajes whois.nic.viajes
 video whois.nic.video
-vig whois.afilias-srs.net
-viking whois.afilias-srs.net
+vig whois.nic.vig
+viking whois.nic.viking
 villas whois.nic.villas
 vin whois.nic.vin
 vip whois.nic.vip
@@ -1144,7 +1145,7 @@ xn--90ais whois.cctld.by
 xn--9dbq2a whois.nic.xn--9dbq2a
 xn--9et52u whois.gtld.knet.cn
 xn--9krt00a whois.nic.xn--9krt00a
-xn--b4w605ferd whois.afilias-srs.net
+xn--b4w605ferd whois.nic.xn--b4w605ferd
 xn--c1avg whois.nic.xn--c1avg
 xn--c2br7g whois.nic.xn--c2br7g
 xn--cckwcxetd whois.nic.xn--cckwcxetd
@@ -1366,7 +1367,7 @@ zuerich whois.nic.zuerich
 新闻 whois.nic.xn--efvy88h
 时尚 whois.gtld.knet.cn
 机构 whois.nic.xn--nqv7f
-淡马锡 whois.afilias-srs.net
+淡马锡 whois.nic.xn--b4w605ferd
 游戏 whois.nic.xn--unup4y
 澳門 whois.monic.mo
 点看 whois.nic.xn--3pxu8k
