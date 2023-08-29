@@ -120,7 +120,7 @@ bm whois.afilias-srs.net
 bms whois.nic.bms
 bmw whois.nic.bmw
 bn whois.bnnic.bn
-bnpparibas whois.afilias-srs.net
+bnpparibas whois.nic.bnpparibas
 bo whois.nic.bo
 boats whois.nic.boats
 boehringer whois.nic.boehringer
