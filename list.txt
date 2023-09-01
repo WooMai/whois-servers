@@ -112,7 +112,7 @@ bio whois.nic.bio
 biz whois.nic.biz
 bj whois.nic.bj
 black whois.nic.black
-blackfriday whois.uniregistry.net
+blackfriday whois.nic.blackfriday
 blockbuster whois.nic.blockbuster
 blog whois.nic.blog
 blue whois.nic.blue
@@ -456,7 +456,7 @@ healthcare whois.nic.healthcare
 help whois.nic.help
 helsinki whois.nic.helsinki
 here whois.nic.google
-hermes whois.afilias-srs.net
+hermes whois.nic.hermes
 hiphop whois.nic.hiphop
 hisamitsu whois.nic.gmo
 hitachi whois.nic.gmo
@@ -758,7 +758,7 @@ pharmacy whois.nic.pharmacy
 phd whois.nic.google
 philips whois.nic.philips
 phone whois.nic.phone
-photo whois.uniregistry.net
+photo whois.nic.photo
 photography whois.nic.photography
 photos whois.nic.photos
 physio whois.nic.physio
