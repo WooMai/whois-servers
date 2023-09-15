@@ -70,7 +70,6 @@ gm
 gn
 gr
 grainger
-grocery
 gt
 gu
 guardian
