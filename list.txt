@@ -712,7 +712,7 @@ nissan whois.nic.gmo
 nissay whois.nic.nissay
 nl whois.domain-registry.nl
 no whois.norid.no
-nokia whois.afilias-srs.net
+nokia whois.nic.nokia
 norton whois.nic.norton
 now whois.nic.now
 nowruz whois.nic.nowruz
