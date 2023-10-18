@@ -37,7 +37,6 @@ cbre
 cg
 chase
 cisco
-citadel
 citi
 citic
 ck
