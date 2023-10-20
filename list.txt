@@ -200,7 +200,6 @@ cipriani whois.nic.cipriani
 circle whois.nic.circle
 citadel whois.nic.citadel
 city whois.nic.city
-cityeats whois.nic.cityeats
 cl whois.nic.cl
 claims whois.nic.claims
 cleaning whois.nic.cleaning
@@ -381,7 +380,6 @@ free whois.nic.free
 fresenius whois.nic.fresenius
 frl whois.nic.frl
 frogans whois.nic.frogans
-frontdoor whois.nic.frontdoor
 fujitsu whois.nic.gmo
 fun whois.nic.fun
 fund whois.nic.fund
