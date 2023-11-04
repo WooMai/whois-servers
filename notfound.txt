@@ -91,7 +91,6 @@ jo
 jpmorgan
 jprs
 kh
-kinder
 km
 kp
 kpmg
@@ -143,7 +142,6 @@ praxi
 pru
 prudential
 py
-rocher
 sakura
 sas
 sener
