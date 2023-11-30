@@ -19,7 +19,6 @@ azure
 ba
 banamex
 bananarepublic
-baseball
 bb
 bd
 bharti
@@ -76,7 +75,6 @@ hbo
 health
 homegoods
 homesense
-hotels
 hotmail
 hsbc
 hyatt
@@ -126,7 +124,6 @@ nike
 np
 nr
 ntt
-nyc
 office
 oldnavy
 open
