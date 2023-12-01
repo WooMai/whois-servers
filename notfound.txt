@@ -126,7 +126,6 @@ nr
 ntt
 office
 oldnavy
-open
 pa
 pfizer
 pg

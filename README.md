@@ -3,7 +3,7 @@
 An Enhanced WHOIS Server List Based on the IANA Root Zone Database
 
 <!-- UPDATE_DATE_START -->
-Last updated: 2023-11-30
+Last updated: 2023-12-01
 <!-- UPDATE_DATE_END -->
 
 ## Usage
