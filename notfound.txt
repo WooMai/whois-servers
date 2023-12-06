@@ -23,7 +23,6 @@ bb
 bd
 bharti
 bing
-bloomberg
 booking
 bs
 bt
@@ -130,7 +129,6 @@ pa
 pfizer
 pg
 ph
-pictet
 ping
 pn
 pramerica

@@ -116,6 +116,7 @@ black whois.nic.black
 blackfriday whois.nic.blackfriday
 blockbuster whois.nic.blockbuster
 blog whois.nic.blog
+bloomberg whois.nic.bloomberg
 blue whois.nic.blue
 bm whois.afilias-srs.net
 bms whois.nic.bms
@@ -766,6 +767,7 @@ photography whois.nic.photography
 photos whois.nic.photos
 physio whois.nic.physio
 pics whois.nic.pics
+pictet whois.nic.pictet
 pictures whois.nic.pictures
 pid whois.nic.pid
 pin whois.nic.pin
