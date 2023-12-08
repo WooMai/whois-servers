@@ -129,7 +129,6 @@ pa
 pfizer
 pg
 ph
-ping
 pn
 pramerica
 praxi
