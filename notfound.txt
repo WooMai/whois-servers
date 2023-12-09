@@ -26,7 +26,6 @@ bing
 booking
 bs
 bt
-buzz
 bv
 calvinklein
 caravan

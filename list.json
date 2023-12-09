@@ -177,7 +177,7 @@
     "builders": "whois.nic.builders",
     "business": "whois.nic.business",
     "buy": "whois.nic.buy",
-    "buzz": null,
+    "buzz": "whois.nic.buzz",
     "bv": null,
     "bw": "whois.nic.net.bw",
     "by": "whois.cctld.by",
