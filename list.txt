@@ -672,6 +672,7 @@ monster whois.nic.monster
 mormon whois.nic.mormon
 mortgage whois.nic.mortgage
 moscow whois.nic.moscow
+moto whois.nic.moto
 motorcycles whois.nic.motorcycles
 mov whois.nic.google
 movie whois.nic.movie
