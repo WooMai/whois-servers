@@ -18,7 +18,6 @@ az
 azure
 ba
 banamex
-bananarepublic
 bb
 bd
 bharti
@@ -121,7 +120,6 @@ np
 nr
 ntt
 office
-oldnavy
 pa
 pfizer
 pg
