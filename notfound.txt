@@ -148,7 +148,6 @@ tjx
 tkmaxx
 tt
 va
-vi
 vivo
 vn
 weather
