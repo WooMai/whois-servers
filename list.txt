@@ -648,6 +648,7 @@ meme whois.nic.google
 memorial whois.nic.memorial
 men whois.nic.men
 menu whois.nic.menu
+merckmsd whois.nic.merckmsd
 mg whois.nic.mg
 miami whois.nic.miami
 mini whois.nic.mini
@@ -679,6 +680,7 @@ movie whois.nic.movie
 mq whois.mediaserv.net
 mr whois.nic.mr
 ms whois.nic.ms
+msd whois.nic.msd
 mt whois.nic.org.mt
 mtn whois.nic.mtn
 mtr whois.nic.mtr

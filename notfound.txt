@@ -65,7 +65,6 @@ gr
 grainger
 gt
 gu
-guardian
 gw
 hbo
 health
@@ -99,14 +98,12 @@ maif
 marshalls
 mattel
 mc
-merckmsd
 mh
 microsoft
 mil
 mint
 mlb
 mp
-msd
 mv
 nba
 ne
