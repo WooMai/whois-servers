@@ -1158,7 +1158,7 @@ xn--c1avg whois.nic.xn--c1avg
 xn--c2br7g whois.nic.xn--c2br7g
 xn--cckwcxetd whois.nic.xn--cckwcxetd
 xn--cg4bki whois.kr
-xn--clchc0ea0b2g2a9gcd whois.sgnic.sg
+xn--clchc0ea0b2g2a9gcd whois.ta.sgnic.sg
 xn--czrs0t whois.nic.xn--czrs0t
 xn--czru2d whois.gtld.knet.cn
 xn--d1acj3b whois.nic.xn--d1acj3b
@@ -1244,7 +1244,7 @@ xn--xhq521b whois.ngtld.cn
 xn--xkc2al3hye2a whois.nic.lk
 xn--xkc2dl3a5ee0h whois.registry.in
 xn--y9a3aq whois.amnic.net
-xn--yfro4i67o whois.sgnic.sg
+xn--yfro4i67o whois.zh.sgnic.sg
 xn--ygbi2ammx whois.pnina.ps
 xn--zfr164b whois.conac.cn
 xxx whois.nic.xxx
@@ -1325,7 +1325,7 @@ zuerich whois.nic.zuerich
 ଭାରତ whois.registry.in
 இந்தியா whois.registry.in
 இலங்கை whois.nic.lk
-சிங்கப்பூர் whois.sgnic.sg
+சிங்கப்பூர் whois.ta.sgnic.sg
 భారత్ whois.registry.in
 ಭಾರತ whois.registry.in
 ഭാരതം whois.registry.in
@@ -1369,7 +1369,7 @@ zuerich whois.nic.zuerich
 手机 whois.nic.xn--kput3i
 政务 whois.conac.cn
 政府 whois.nic.xn--mxtq1m
-新加坡 whois.sgnic.sg
+新加坡 whois.zh.sgnic.sg
 新闻 whois.nic.xn--efvy88h
 时尚 whois.gtld.knet.cn
 机构 whois.nic.xn--nqv7f
