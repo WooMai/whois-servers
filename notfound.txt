@@ -1,6 +1,5 @@
 aaa
 able
-accenture
 ad
 aetna
 aig
@@ -94,7 +93,6 @@ lilly
 lincoln
 living
 lr
-maif
 marshalls
 mattel
 mc
