@@ -73,6 +73,7 @@ autos whois.nic.autos
 aw whois.nic.aw
 aws whois.nic.aws
 ax whois.ax
+azure whois.nic.azure
 baby whois.nic.baby
 baidu whois.gtld.knet.cn
 band whois.nic.band
@@ -108,6 +109,7 @@ bi whois1.nic.bi
 bible whois.nic.bible
 bid whois.nic.bid
 bike whois.nic.bike
+bing whois.nic.bing
 bingo whois.nic.bingo
 bio whois.nic.bio
 biz whois.nic.biz
@@ -479,6 +481,7 @@ host whois.nic.host
 hosting whois.nic.hosting
 hot whois.nic.hot
 hotels whois.nic.hotels
+hotmail whois.nic.hotmail
 house whois.nic.house
 how whois.nic.google
 hr whois.dns.hr
@@ -652,6 +655,7 @@ menu whois.nic.menu
 merckmsd whois.nic.merckmsd
 mg whois.nic.mg
 miami whois.nic.miami
+microsoft whois.nic.microsoft
 mini whois.nic.mini
 mit whois.nic.mit
 mitsubishi whois.nic.gmo
@@ -731,6 +735,7 @@ nyc whois.nic.nyc
 nz whois.irs.net.nz
 obi whois.nic.obi
 observer whois.nic.observer
+office whois.nic.office
 okinawa whois.nic.okinawa
 olayan whois.nic.olayan
 olayangroup whois.nic.olayangroup
@@ -927,6 +932,7 @@ sk whois.sk-nic.sk
 ski whois.nic.ski
 skin whois.nic.skin
 sky whois.nic.sky
+skype whois.nic.skype
 sl whois.nic.sl
 sling whois.nic.sling
 sm whois.nic.sm
@@ -1107,6 +1113,7 @@ whoswho whois.nic.whoswho
 wien whois.nic.wien
 wiki whois.nic.wiki
 win whois.nic.win
+windows whois.nic.windows
 wine whois.nic.wine
 wme whois.nic.wme
 wolterskluwer whois.nic.wolterskluwer
@@ -1118,6 +1125,7 @@ wow whois.nic.wow
 ws whois.website.ws
 wtc whois.nic.wtc
 wtf whois.nic.wtf
+xbox whois.nic.xbox
 xerox whois.nic.xerox
 xihuan whois.teleinfo.cn
 xin whois.nic.xin

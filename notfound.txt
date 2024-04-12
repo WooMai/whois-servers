@@ -14,13 +14,11 @@ aramco
 athleta
 axa
 az
-azure
 ba
 banamex
 bb
 bd
 bharti
-bing
 booking
 bs
 bt
@@ -69,7 +67,6 @@ hbo
 health
 homegoods
 homesense
-hotmail
 hsbc
 hyatt
 ieee
@@ -97,7 +94,6 @@ marshalls
 mattel
 mc
 mh
-microsoft
 mil
 mint
 mlb
@@ -113,7 +109,6 @@ nike
 np
 nr
 ntt
-office
 pa
 pfizer
 pg
@@ -128,7 +123,6 @@ sakura
 sas
 sener
 sj
-skype
 sohu
 song
 sr
@@ -148,9 +142,7 @@ vn
 weather
 weatherchannel
 williamhill
-windows
 winners
-xbox
 xn--1ck2e1b
 xn--54b7fta0cc
 xn--bck1b9a5dre4c
