@@ -1063,7 +1063,7 @@ uz whois.cctld.uz
 vacations whois.nic.vacations
 vana whois.nic.vana
 vanguard whois.nic.vanguard
-vc whois2.afilias-grs.net
+vc whois.identitydigital.services
 ve whois.nic.ve
 vegas whois.nic.vegas
 ventures whois.nic.ventures
