@@ -913,7 +913,6 @@ sg whois.sgnic.sg
 sh whois.nic.sh
 shangrila whois.nic.shangrila
 sharp whois.nic.gmo
-shaw whois.afilias-srs.net
 shell whois.nic.shell
 shia whois.nic.shia
 shiksha whois.nic.shiksha
