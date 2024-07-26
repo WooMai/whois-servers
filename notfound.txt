@@ -121,7 +121,6 @@ prudential
 py
 sakura
 sas
-sener
 sj
 sohu
 song
@@ -167,7 +166,6 @@ xn--otu796d
 xn--qxam
 xn--rhqv96g
 xn--rovu88b
-yahoo
 yandex
 za
 zero
