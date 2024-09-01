@@ -1,6 +1,6 @@
 {
     "name": "whois-servers-list",
-    "version": "2024.07.26",
+    "version": "2024.09.01",
     "main": "index.js",
     "repository": {
         "type": "git",
