@@ -49,7 +49,6 @@ ferrero
 fk
 flickr
 flir
-food
 ford
 frontier
 ftr
@@ -87,7 +86,6 @@ kred
 lanxess
 lilly
 lincoln
-living
 lr
 marshalls
 mattel

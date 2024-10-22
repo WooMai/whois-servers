@@ -372,6 +372,7 @@ fly whois.nic.google
 fm whois.nic.fm
 fo whois.nic.fo
 foo whois.nic.google
+food whois.nic.food
 football whois.nic.football
 forex whois.nic.forex
 forsale whois.nic.forsale
@@ -603,6 +604,7 @@ limo whois.nic.limo
 link whois.uniregistry.net
 lipsy whois.nic.lipsy
 live whois.nic.live
+living whois.nic.living
 lk whois.nic.lk
 llc whois.nic.llc
 llp whois.nic.llp
