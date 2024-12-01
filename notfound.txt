@@ -115,7 +115,6 @@ praxi
 pru
 prudential
 py
-sakura
 sas
 sj
 sohu
