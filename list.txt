@@ -549,7 +549,6 @@ kaufen whois.nic.kaufen
 kddi whois.nic.kddi
 ke whois.kenic.or.ke
 kerryhotels whois.nic.kerryhotels
-kerrylogistics whois.nic.kerrylogistics
 kerryproperties whois.nic.kerryproperties
 kfh whois.nic.kfh
 kg whois.kg
@@ -604,7 +603,6 @@ like whois.nic.like
 limited whois.nic.limited
 limo whois.nic.limo
 link whois.uniregistry.net
-lipsy whois.nic.lipsy
 live whois.nic.live
 living whois.nic.living
 lk whois.nic.lk
