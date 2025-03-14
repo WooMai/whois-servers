@@ -436,7 +436,7 @@ goog whois.nic.google
 google whois.nic.google
 gop whois.nic.gop
 got whois.nic.got
-gov whois.dotgov.gov
+gov whois.nic.gov
 gp whois.nic.gp
 gq whois.dominio.gq
 graphics whois.nic.graphics
@@ -1187,6 +1187,7 @@ xn--flw351e whois.nic.google
 xn--fpcrj9c3d whois.registry.in
 xn--fzc2c9e2c whois.nic.lk
 xn--fzys8d69uvgm whois.nic.xn--fzys8d69uvgm
+xn--g2xx48c whois.nic.xn--g2xx48c
 xn--gecrj9c whois.registry.in
 xn--h2breg3eve whois.registry.in
 xn--h2brj9c whois.registry.in
@@ -1397,6 +1398,7 @@ zuerich whois.nic.zuerich
 网络 whois.ngtld.cn
 联通 whois.nic.xn--8y0a063a
 谷歌 whois.nic.google
+购物 whois.nic.xn--g2xx48c
 集团 whois.gtld.knet.cn
 電訊盈科 whois.nic.xn--fzys8d69uvgm
 飞利浦 whois.nic.xn--kcrx77d1x4a
