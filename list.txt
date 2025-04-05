@@ -771,6 +771,7 @@ pccw whois.nic.pccw
 pe kero.yachay.pe
 pet whois.nic.pet
 pf whois.registry.pf
+pg whois.nic.pg
 pharmacy whois.nic.pharmacy
 phd whois.nic.google
 philips whois.nic.philips

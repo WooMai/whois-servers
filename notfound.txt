@@ -105,7 +105,6 @@ np
 nr
 pa
 pfizer
-pg
 ph
 pn
 pramerica
