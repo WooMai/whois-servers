@@ -573,7 +573,6 @@ la whois.nic.la
 lacaixa whois.nic.lacaixa
 lamborghini whois.nic.lamborghini
 lamer whois.nic.lamer
-lancaster whois.nic.lancaster
 land whois.nic.land
 landrover whois.nic.landrover
 lasalle whois.nic.lasalle
