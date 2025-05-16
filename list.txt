@@ -800,7 +800,7 @@ pohl whois.nic.pohl
 poker whois.nic.poker
 politie whois.nic.politie
 porn whois.nic.porn
-post whois.dotpostregistry.net
+post whois.nic.post
 pr whois.afilias-srs.net
 press whois.nic.press
 prime whois.nic.prime
