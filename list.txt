@@ -287,6 +287,7 @@ digital whois.nic.digital
 direct whois.nic.direct
 directory whois.nic.directory
 discount whois.nic.discount
+discover whois.nic.discover
 dish whois.nic.dish
 diy whois.nic.diy
 dk whois.punktum.dk
@@ -504,7 +505,7 @@ imamat whois.nic.imamat
 imdb whois.nic.imdb
 immo whois.nic.immo
 immobilien whois.nic.immobilien
-in whois.registry.in
+in whois.nixiregistry.in
 inc whois.nic.inc
 industries whois.nic.industries
 infiniti whois.nic.gmo
