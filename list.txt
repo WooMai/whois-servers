@@ -1213,6 +1213,7 @@ xn--kcrx77d1x4a whois.nic.xn--kcrx77d1x4a
 xn--kprw13d whois.twnic.net.tw
 xn--kpry57d whois.twnic.net.tw
 xn--kput3i whois.nic.xn--kput3i
+xn--l1acc whois.mn
 xn--lgbbat1ad8j whois.nic.dz
 xn--mgb9awbf whois.registry.om
 xn--mgba3a4f16a whois.nic.ir
@@ -1300,6 +1301,7 @@ zuerich whois.nic.zuerich
 ком whois.nic.xn--j1aef
 қаз whois.nic.kz
 мкд whois.marnet.mk
+мон whois.mn
 москва whois.nic.xn--80adxhks
 онлайн whois.nic.xn--80asehdb
 орг whois.nic.xn--c1avg
