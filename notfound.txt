@@ -112,7 +112,6 @@ py
 sas
 sj
 sohu
-sr
 staples
 statefarm
 sv

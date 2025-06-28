@@ -958,6 +958,7 @@ spa whois.nic.spa
 space whois.nic.space
 sport whois.nic.sport
 spot whois.nic.spot
+sr whois.sr
 srl whois.nic.srl
 ss whois.nic.ss
 st whois.nic.st
