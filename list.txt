@@ -208,7 +208,7 @@ city whois.nic.city
 cl whois.nic.cl
 claims whois.nic.claims
 cleaning whois.nic.cleaning
-click whois.nic.click
+click whois.tucowsregistry.net
 clinic whois.nic.clinic
 clinique whois.nic.clinique
 clothing whois.nic.clothing
@@ -239,7 +239,7 @@ cooking whois.nic.cooking
 cool whois.nic.cool
 coop whois.nic.coop
 corsica whois.nic.corsica
-country whois.nic.country
+country whois.tucowsregistry.net
 coupon whois.nic.coupon
 coupons whois.nic.coupons
 courses whois.nic.courses
@@ -290,7 +290,7 @@ directory whois.nic.directory
 discount whois.nic.discount
 discover whois.nic.discover
 dish whois.nic.dish
-diy whois.nic.diy
+diy whois.tucowsregistry.net
 dk whois.punktum.dk
 dm whois.dmdomains.dm
 dnp whois.nic.dnp
@@ -374,11 +374,11 @@ fly whois.nic.google
 fm whois.nic.fm
 fo whois.nic.fo
 foo whois.nic.google
-food whois.nic.food
+food whois.tucowsregistry.net
 football whois.nic.football
 forex whois.nic.forex
 forsale whois.nic.forsale
-forum whois.nic.forum
+forum whois.registry.click
 foundation whois.nic.foundation
 fox whois.nic.fox
 fr whois.nic.fr
@@ -413,7 +413,7 @@ gg whois.gg
 ggee whois.nic.ggee
 gh whois.nic.gh
 gi whois.identitydigital.services
-gift whois.uniregistry.net
+gift whois.tucowsregistry.net
 gifts whois.nic.gifts
 gives whois.nic.gives
 giving whois.nic.giving
@@ -467,7 +467,7 @@ hermes whois.nic.hermes
 hiphop whois.nic.hiphop
 hisamitsu whois.nic.gmo
 hitachi whois.nic.gmo
-hiv whois.nic.hiv
+hiv whois.tucowsregistry.net
 hk whois.hkirc.hk
 hkt whois.nic.hkt
 hm whois.registry.hm
@@ -597,14 +597,14 @@ li whois.nic.li
 lidl whois.nic.lidl
 life whois.nic.life
 lifeinsurance whois.nic.lifeinsurance
-lifestyle whois.nic.lifestyle
+lifestyle whois.tucowsregistry.net
 lighting whois.nic.lighting
 like whois.nic.like
 limited whois.nic.limited
 limo whois.nic.limo
-link whois.uniregistry.net
+link whois.tucowsregistry.net
 live whois.nic.live
-living whois.nic.living
+living whois.tucowsregistry.net
 lk whois.nic.lk
 llc whois.nic.llc
 llp whois.nic.llp
@@ -813,7 +813,7 @@ prof whois.nic.google
 progressive whois.nic.progressive
 promo whois.nic.promo
 properties whois.nic.properties
-property whois.nic.property
+property whois.tucowsregistry.net
 protection whois.nic.protection
 ps whois.pnina.ps
 pt whois.dns.pt
@@ -912,7 +912,7 @@ services whois.nic.services
 seven whois.nic.seven
 sew whois.nic.sew
 sex whois.nic.sex
-sexy whois.nic.sexy
+sexy whois.tucowsregistry.net
 sfr whois.nic.sfr
 sg whois.sgnic.sg
 sh whois.nic.sh
@@ -1043,7 +1043,7 @@ training whois.nic.training
 travel whois.nic.travel
 travelers whois.nic.travelers
 travelersinsurance whois.nic.travelersinsurance
-trust whois.nic.trust
+trust whois.tucowsregistry.net
 trv whois.nic.trv
 tube whois.nic.tube
 tui whois.nic.tui
@@ -1067,7 +1067,7 @@ us whois.nic.us
 uy whois.nic.org.uy
 uz whois.cctld.uz
 vacations whois.nic.vacations
-vana whois.nic.vana
+vana whois.tucowsregistry.net
 vanguard whois.nic.vanguard
 vc whois.identitydigital.services
 ve whois.nic.ve
