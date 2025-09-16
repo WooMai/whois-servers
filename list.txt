@@ -350,7 +350,7 @@ farm whois.nic.farm
 fashion whois.nic.fashion
 fast whois.nic.fast
 fedex whois.nic.fedex
-feedback whois.nic.feedback
+feedback whois.registry.click
 ferrari whois.nic.ferrari
 fi whois.fi
 fidelity whois.nic.fidelity
@@ -783,7 +783,7 @@ physio whois.nic.physio
 pics whois.nic.pics
 pictet whois.nic.pictet
 pictures whois.nic.pictures
-pid whois.nic.pid
+pid whois.registry.click
 pin whois.nic.pin
 ping whois.nic.ping
 pink whois.nic.pink
