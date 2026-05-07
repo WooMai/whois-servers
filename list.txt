@@ -694,7 +694,7 @@ mtn whois.nic.mtn
 mtr whois.nic.mtr
 mu whois.tld.mu
 museum whois.nic.museum
-music whois.nic.music
+music whois.registryservices.music
 mw whois.nic.mw
 mx whois.mx
 my whois.mynic.my
