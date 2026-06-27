@@ -601,7 +601,7 @@ lighting whois.nic.lighting
 like whois.nic.like
 limited whois.nic.limited
 limo whois.nic.limo
-link whois.tucowsregistry.net
+link whois.uniregistry.net
 live whois.nic.live
 living whois.registry.click
 lk whois.nic.lk
