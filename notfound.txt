@@ -125,6 +125,7 @@ vivo
 vn
 weather
 weatherchannel
+web
 williamhill
 winners
 xn--54b7fta0cc
