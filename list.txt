@@ -537,6 +537,7 @@ jetzt whois.nic.jetzt
 jewelry whois.nic.jewelry
 jio whois.nic.jio
 jll whois.nic.jll
+jo whois.nic.net.jo
 jobs whois.nic.jobs
 joburg whois.nic.joburg
 jot whois.nic.jot

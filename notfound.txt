@@ -70,7 +70,6 @@ itau
 jm
 jmp
 jnj
-jo
 jpmorgan
 kh
 km
