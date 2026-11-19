@@ -803,7 +803,7 @@ poker whois.nic.poker
 politie whois.nic.politie
 porn whois.nic.porn
 post whois.nic.post
-pr whois.afilias-srs.net
+pr whois.identitydigital.services
 press whois.nic.press
 prime whois.nic.prime
 pro whois.nic.pro
